@@ -1,0 +1,18 @@
+@import url("bootstrap.min.css");
+@import url("https://fonts.googleapis.com/css?family=Oxygen:400,300,700");
+
+body {
+  margin-top: 60px;
+  font-family: 'Oxygen', sans-serif;
+  color: #333;
+  -webkit-font-smoothing: antialiased;
+  text-rendering: optimizeLegibility;
+}
+
+h1 {
+  font-size: 1.5em;
+}
+
+.contact {
+  margin-top: 22px;
+}
